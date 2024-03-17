@@ -1,0 +1,32 @@
+# IcelandCars
+
+Dobrodošli na IcelandCars!
+
+## Opis
+
+IcelandCars je vaša destinacija za jednostavnu pretragu registra vozila u Islandu. Naša platforma omogućava korisnicima da brzo i lako pronađu informacije o vozilima putem registracionog broja, stalnog broja ili broja identifikacije vozila (VIN).
+
+## Funkcionalnosti
+
+- **Pretraga vozila**: Korisnici mogu uneti registracioni broj, stalni broj ili VIN vozila kako bi dobili detaljne informacije o vozilu.
+- **Brza pretraga**: Naša platforma omogućava brzo prikazivanje rezultata pretrage bez osvežavanja cele stranice.
+- **Prikaz rezultata**: Rezultati pretrage se prikazuju u obliku tabele sa detaljima o vozilu.
+- **Validacija korisničkog unosa**: Pre nego što se izvrši pretraga, vrši se provera da li je korisnik uneo odgovarajući registarski broj, a ako nije, korisniku se prikazuje odgovarajuće upozorenje.
+
+## Kako koristiti
+1. Ulogujte se pomoću korisničkog imena i lozinke.
+2. Unesite registarski broj, stalni broj ili VIN vozila u odgovarajuće polje za pretragu.
+2. Kliknite na dugme "Search" kako biste pokrenuli pretragu.
+4. Pregledajte rezultate pretrage i pronađite detaljne informacije o vozilu.
+
+## Tehnologije korišćene
+
+- HTML
+- CSS
+- JavaScript
+
+
+## Kontakt
+
+Za bilo kakve upite ili povratne informacije, slobodno me kontaktirajte na email: icelandcars@gmail.com.
+

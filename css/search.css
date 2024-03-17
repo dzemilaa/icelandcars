@@ -1,0 +1,37 @@
+
+
+@media screen and (max-width: 600px) {
+
+    #prijavaa {
+        width: 100%;
+    }
+}
+
+.prijavaa {
+    width: 50%;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
+    padding: 10px;
+  }
+
+
+#table {
+    width: 50%;
+    border-collapse: collapse;
+    caption-side: top;
+    empty-cells: hide;
+    table-layout: auto;
+    background-color: #1d27298a;
+    color: #c8bcb0;
+  }
+  @media screen and (max-width: 600px) {
+  
+    #table {
+      width: 100%;
+    }
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+  }

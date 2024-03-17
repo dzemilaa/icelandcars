@@ -1,0 +1,93 @@
+#sent {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #c8bcb0;
+	text-align: center;
+}
+.top-nav {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #1d2729;
+	color: #FFF;
+	height: 80px;
+	padding: 1em;
+  }
+  
+  .pocetniUl {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  
+  }
+  
+  .pocetniUl1 {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  
+  }
+  
+  #h2Naslov {
+	color: #c8bcb0;
+	margin-top: 20px;
+  }
+  
+.logo {
+	height: 90px;
+	width: 110px;
+  }
+  #footer {
+	background-color: #1d2729;
+	color: #c8bcb0;
+	text-align: center;
+	padding-top: 8px;
+  }
+  
+img{
+	width: 180px;
+	height: 150px;
+}
+.mail-seccess .success-inner {
+	display: inline-block;
+}
+.mail-seccess .success-inner h1 {
+	font-size: 100px;
+	text-shadow: 3px 5px 2px #3333;
+	color:#193d44;
+	font-weight: 700;
+}
+.mail-seccess .success-inner h1 span {
+	display: block;
+	font-size: 25px;
+	color: #333;
+	font-weight: 600;
+	text-shadow: none;
+	margin-top: 20px;
+}
+.mail-seccess .success-inner p {
+	padding: 20px 15px;
+}
+.mail-seccess .success-inner .btn{
+	color:#fff;
+}
+
+.blue-button {
+	background-color: #0f2941; 
+	color: #fff; 
+	padding: 10px 20px; 
+	border: none; 
+	border-radius: 5px; 
+	cursor: pointer; 
+	font-size: 16px; 
+  }
+  
+  .blue-button:hover {
+	background-color: #030b1a; 
+  }
+  
